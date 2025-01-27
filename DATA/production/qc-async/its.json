@@ -129,7 +129,8 @@
               "Layer6/ClusterOccupation"
             ]
           }
-        ]
+        ],
+	"exportToBookkeeping": "true"
       },
       "ITSTracks": {
         "active": "true",
@@ -153,7 +154,8 @@
 	      "BunchCrossingIDvsClusterRatio"
             ]
           }
-        ]
+        ],
+	"exportToBookkeeping": "true"
       }
     }
   },
